@@ -1,0 +1,8 @@
+Week 2 - Game Plan:
+Problem Statement =  Transform text file into JSON Objects and POST them to a Django web server
+
+Steps:
+1. Retrieve File : We can use os module to Retrieve the path of each file in the directory and save it in a list
+2. Iterate and retrive data per line: Read each line for data and put it into a dictionary
+3. Turn data into JSON: Using json.dump() turn data into json Objects
+4. POST to django webserver: using the request module we send a POST request with params
