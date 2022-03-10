@@ -1,0 +1,8 @@
+Week 1 - Game Plan:
+Problem Statement =  Image is crooked and in the wrong size --> We Have to rotate and resize then save to the appropriate dir
+
+Steps:
+1. Retrieve File : We can use os module to Retrieve the path of each file in the directory and save it in a list
+2. Iterate through File : Use for loops to go through the list (open file in said loop)
+3. Fix each File : Using PIL we fix each Image (rotate, resize, correct Color)
+4. Save file to dir with .jpeg extension : Save to the directory specified.
