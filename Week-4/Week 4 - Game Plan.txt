@@ -1,0 +1,11 @@
+Week 4 - Game Plan:
+Problem Statement =  A lot of damn scripts to write
+
+List Of Scripts:
+1. Image Fixer --> Week 1
+2. Upload Image to Web Server --> Parts of Week 2
+3. Upload Desc to Web Server --> Parts of Week 2
+4. Generate PDF --> Week 3
+5. Convert Report to PDF --> Week 3
+6. Email Script --> Week 3
+7. Health Check --> Course 2 
